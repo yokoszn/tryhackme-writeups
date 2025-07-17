@@ -1,6 +1,6 @@
 ---
 title: Defending Azure Path
-categories: "[Cloud-Access Courses, Azure]"
+categories: "[cloud-access, azure]"
 tags:
   - learning-path
   - azure
