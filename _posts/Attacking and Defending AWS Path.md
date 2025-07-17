@@ -1,6 +1,6 @@
 ---
 title: Attacking and Defending AWS Path
-categories: "[cloud-access, AWS]"
+categories: "[cloud-access, aws]"
 tags:
   - aws
   - learning-path
