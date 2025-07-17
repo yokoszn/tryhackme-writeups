@@ -1,12 +1,9 @@
 ---
 title: Defending Azure Path
 categories: "[cloud-access, azure]"
-tags:
-  - learning-path
-  - azure
-  - cloud-access
+tags: [cloud-access]
 ---
-[TryHackMe | Defending Azure Training](https://tryhackme.com/path/outline/azuresecurity)
+[Defending Azure Training](https://tryhackme.com/path/outline/azuresecurity)
 
 I intend to complete this once I have money for [cloud-access ]([TryHackMe | Cloud license access](https://tryhackme.com/cloud-access)):c
 
