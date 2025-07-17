@@ -1,7 +1,7 @@
 ---
 title: Attacking and Defending AWS Path
 categories: [cloud-access, aws]
-tags: [aws] [learning-path] [cloud-access]
+tags: [cloud-access]
 ---
 
 Have not Yet Started, I intend to complete this once I have time & money for [cloud-access](https://tryhackme.com/cloud-access):c
